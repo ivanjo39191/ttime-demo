@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="203.249" viewBox="0 0 1280 203.249">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bcbcbc;
+      }
+
+      .cls-2 {
+        fill: #fcd141;
+      }
+    </style>
+  </defs>
+  <g id="Group_396" data-name="Group 396" transform="translate(-320 -791.751)">
+    <path id="Union_6" data-name="Union 6" class="cls-1" d="M-2070,201V111a20,20,0,0,1,20-20h620V40a40,40,0,0,1,40-40h560a40,40,0,0,1,40,40V201Z" transform="translate(2390 791.751)"/>
+    <rect id="Rectangle_234" data-name="Rectangle 234" class="cls-2" width="1280" height="6" transform="translate(320 989)"/>
+  </g>
+</svg>

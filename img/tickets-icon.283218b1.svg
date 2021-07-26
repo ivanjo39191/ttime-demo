@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="353.74" height="396.031" viewBox="0 0 353.74 396.031">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: rgba(25,159,146,0.1);
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 9px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="discount" transform="matrix(0.966, -0.259, 0.259, 0.966, -209.332, 6.963)">
+    <path id="Path_109" data-name="Path 109" class="cls-1" d="M242.223,444.043l73.4-39.428a16.864,16.864,0,0,1,15.946,0l73.264,39.356a30.331,30.331,0,0,0,26.628,1.245,43.3,43.3,0,0,0,25.729-39.453V154.271A33.364,33.364,0,0,0,423.917,121H223.271A33.364,33.364,0,0,0,190,154.271V405.762A43.324,43.324,0,0,0,218.134,446.2C226,449.143,234.827,448.014,242.223,444.043Z" transform="translate(0)"/>
+    <circle id="Ellipse_39" data-name="Ellipse 39" class="cls-1" cx="24.602" cy="24.602" r="24.602" transform="translate(255.674 199.043)"/>
+    <circle id="Ellipse_40" data-name="Ellipse 40" class="cls-1" cx="24.602" cy="24.602" r="24.602" transform="translate(342.189 292.183)"/>
+    <line id="Line_25" data-name="Line 25" class="cls-2" x1="142.248" y2="172.215" transform="translate(254.159 181.053)"/>
+  </g>
+</svg>
